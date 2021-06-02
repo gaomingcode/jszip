@@ -1,0 +1,26 @@
+{
+  "name": "gaomingcode/jszip",
+  "type": "library",
+  "description": "Create, read and edit .zip files with JavaScript http://stuartk.com/jszip",
+  "keywords": [
+    "jszip",
+    "zip",
+    "javascript"
+  ],
+  "homepage": "https://github.com/Stuk/jszip",
+  "license": "MIT or GPLv3",
+    "authors": [
+    {
+      "name": "Franz Buchinger"
+    },
+    {
+      "name": "António Afonso"
+    },
+    {
+      "name": "David Duponchel"
+    },
+    {
+      "name": "yiminghe"
+    }
+  ],
+}
