@@ -1,5 +1,17 @@
-JSZip [![Build Status](https://api.travis-ci.org/Stuk/jszip.svg?branch=master)](http://travis-ci.org/Stuk/jszip) [![Code Climate](https://codeclimate.com/github/Stuk/jszip/badges/gpa.svg)](https://codeclimate.com/github/Stuk/jszip)
-=====
+# JSZip 
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/jszip.svg)](https://github.com/gaomingcode/jszip)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jszip)](https://github.com/gaomingcode/jszip)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/jszip)](https://github.com/gaomingcode/jszip)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/jszip
+```
+###
 
 [![Selenium Test Status](https://saucelabs.com/browser-matrix/jszip.svg)](https://saucelabs.com/u/jszip)
 
