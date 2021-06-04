@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/jszip.svg)](https://github.com/gaomingcode/jszip)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jszip)](https://github.com/gaomingcode/jszip)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/jszip)](https://github.com/gaomingcode/jszip)
+[![Github License](https://img.shields.io/github/license/gaomingcode/jszip)](https://github.com/gaomingcode/jszip)
 
 ## Installation
 
@@ -11,7 +11,8 @@
 ```
 composer require gaomingcode/jszip
 ```
-###
+
+## ReadMe from Origin
 
 [![Selenium Test Status](https://saucelabs.com/browser-matrix/jszip.svg)](https://saucelabs.com/u/jszip)
 
